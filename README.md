@@ -24,8 +24,8 @@ An advanced cross-chain arbitrage bot that detects and executes profitable trade
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cross-chain-arbitrage-bot.git
-cd cross-chain-arbitrage-bot
+git clone https://github.com/Rok2496/Cross-Chain-Arbitrage-Bot.git
+cd Cross-Chain-Arbitrage-Bot
 ```
 
 2. Install Python dependencies:
@@ -143,4 +143,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Disclaimer
 
-This bot is for educational purposes only. Use at your own risk. The authors are not responsible for any financial losses incurred while using this software. 
+This bot is for educational purposes only. Use at your own risk. The authors are not responsible for any financial losses incurred while using this software.
